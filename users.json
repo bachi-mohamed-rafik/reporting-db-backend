@@ -1,0 +1,32 @@
+[
+  {
+    "email": "user@example.com",
+    "password": "password123"
+},
+{
+  "email": "fellag.s@bessapromotion.com",
+  "password": "fellag"
+},
+{
+  "email": "ferid.r@bessapromotion.com",
+  "password": "ferid"
+},
+{
+  "email": "admin@bessapromotion.com",
+  "password": "admin"
+},
+{
+  "email": "rafik",
+  "password": "rafik"
+},
+{
+  "email": "lounes",
+  "password": "farid"
+}
+,
+{
+  "email": "abbassi.d@bessapromotion.com",
+  "password": "djazia"
+}
+
+]
