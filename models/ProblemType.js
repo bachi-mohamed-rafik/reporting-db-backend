@@ -5,4 +5,4 @@ const problemTypeSchema = new mongoose.Schema({
   description: String
 });
 
-const ProblemType = mongoose.model('ProblemType', problemTypeSchema, 'problem_types'); // Explicitly setting the collection name
+const ProblemType = mongoose.model('ProblemType', problemTypeSchema); // Explicitly setting the collection name
